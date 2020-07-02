@@ -1,0 +1,4 @@
+bs4
+BeautifulSoup4
+win10toast
+requests
