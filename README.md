@@ -9,4 +9,4 @@ Add Message Controller or Viewer ||
   
 Dont know in what order ima do these but ye from now on its RedBull and Code until finsished.
 
-Known bugs || Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library? ||
+Known bugs || Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library? == Fix make sure you pip installed lxml ||
